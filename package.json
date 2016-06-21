@@ -1,0 +1,25 @@
+{
+  "name": "susanne-helloworld-test",
+  "version": "0.1.1",
+  "description": "Hello World",
+  "cordova": {
+    "id": "susanne-helloworld-test",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susannegeorge/HelloWorld.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "susanne",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/susannegeorge/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/susannegeorge/HelloWorld#readme"
+}
